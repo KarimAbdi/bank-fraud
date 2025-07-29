@@ -1,0 +1,732 @@
+2025-07-20 07:01:05,084 - WARNING -  * Debugger is active!
+2025-07-20 07:01:05,088 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:01:31,407 - INFO - 127.0.0.1 - - [20/Jul/2025 07:01:31] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:01:31,412 - INFO - Connecting to SQL Server at localhost with user SA
+2025-07-20 07:01:31,517 - INFO - Fetched 6 transactions
+2025-07-20 07:01:31,538 - INFO - Detected 1 potential fraud cases
+2025-07-20 07:01:31,660 - INFO - Saved 1 alerts to database
+2025-07-20 07:01:31,661 - INFO - Disconnected from database
+2025-07-20 07:01:31,662 - INFO - 127.0.0.1 - - [20/Jul/2025 07:01:31] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:05:40,368 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:06:08,751 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 07:06:08,751 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 07:06:08,752 - INFO -  * Restarting with stat
+2025-07-20 07:06:09,200 - WARNING -  * Debugger is active!
+2025-07-20 07:06:09,201 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:06:35,722 - INFO - 127.0.0.1 - - [20/Jul/2025 07:06:35] "GET /api/test-data HTTP/1.1" 200 -
+2025-07-20 07:07:38,442 - INFO - 127.0.0.1 - - [20/Jul/2025 07:07:38] "GET /api/test-data HTTP/1.1" 200 -
+2025-07-20 07:15:49,742 - INFO - 127.0.0.1 - - [20/Jul/2025 07:15:49] "GET /api/test-data HTTP/1.1" 200 -
+2025-07-20 07:19:02,989 - INFO - 127.0.0.1 - - [20/Jul/2025 07:19:02] "[31m[1mGET /api/fraud-detection HTTP/1.1[0m" 405 -
+2025-07-20 07:20:55,332 - INFO - 127.0.0.1 - - [20/Jul/2025 07:20:55] "[33mGET / HTTP/1.1[0m" 404 -
+2025-07-20 07:20:55,511 - INFO - 127.0.0.1 - - [20/Jul/2025 07:20:55] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2025-07-20 07:20:59,397 - INFO - 127.0.0.1 - - [20/Jul/2025 07:20:59] "[31m[1mPOST /api/fraud-detection HTTP/1.1[0m" 400 -
+2025-07-20 07:22:59,451 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:22:59,578 - INFO -  * Restarting with stat
+2025-07-20 07:23:00,107 - WARNING -  * Debugger is active!
+2025-07-20 07:23:00,108 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:23:17,838 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:23:17,951 - INFO -  * Restarting with stat
+2025-07-20 07:23:18,426 - WARNING -  * Debugger is active!
+2025-07-20 07:23:18,427 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:23:37,595 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:23:37,695 - INFO -  * Restarting with stat
+2025-07-20 07:23:38,232 - WARNING -  * Debugger is active!
+2025-07-20 07:23:38,232 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:23:40,264 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:23:40,440 - INFO -  * Restarting with stat
+2025-07-20 07:23:41,292 - WARNING -  * Debugger is active!
+2025-07-20 07:23:41,292 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:23:43,328 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:23:43,428 - INFO -  * Restarting with stat
+2025-07-20 07:23:43,884 - WARNING -  * Debugger is active!
+2025-07-20 07:23:43,884 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:23:57,340 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:23:57,467 - INFO -  * Restarting with stat
+2025-07-20 07:23:57,905 - WARNING -  * Debugger is active!
+2025-07-20 07:23:57,906 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:24:03,983 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:24:04,110 - INFO -  * Restarting with stat
+2025-07-20 07:24:04,633 - WARNING -  * Debugger is active!
+2025-07-20 07:24:04,634 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:24:06,676 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:24:06,791 - INFO -  * Restarting with stat
+2025-07-20 07:24:07,629 - WARNING -  * Debugger is active!
+2025-07-20 07:24:07,630 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:24:08,658 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:24:08,765 - INFO -  * Restarting with stat
+2025-07-20 07:24:09,239 - WARNING -  * Debugger is active!
+2025-07-20 07:24:09,240 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:24:18,330 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:24:18,431 - INFO -  * Restarting with stat
+2025-07-20 07:24:18,899 - WARNING -  * Debugger is active!
+2025-07-20 07:24:18,899 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:24:29,233 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:24:29,346 - INFO -  * Restarting with stat
+2025-07-20 07:24:29,807 - WARNING -  * Debugger is active!
+2025-07-20 07:24:29,807 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:24:35,878 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:24:35,984 - INFO -  * Restarting with stat
+2025-07-20 07:24:36,453 - WARNING -  * Debugger is active!
+2025-07-20 07:24:36,454 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:24:45,548 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:24:45,670 - INFO -  * Restarting with stat
+2025-07-20 07:24:46,140 - WARNING -  * Debugger is active!
+2025-07-20 07:24:46,140 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:25:08,059 - INFO - 127.0.0.1 - - [20/Jul/2025 07:25:08] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:26:22,331 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:26:22,498 - INFO -  * Restarting with stat
+2025-07-20 07:26:23,165 - WARNING -  * Debugger is active!
+2025-07-20 07:26:23,165 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:26:29,234 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:26:29,353 - INFO -  * Restarting with stat
+2025-07-20 07:26:29,789 - WARNING -  * Debugger is active!
+2025-07-20 07:26:29,790 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:26:55,712 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:26:55,812 - INFO -  * Restarting with stat
+2025-07-20 07:26:56,280 - WARNING -  * Debugger is active!
+2025-07-20 07:26:56,281 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:26:59,366 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:26:59,471 - INFO -  * Restarting with stat
+2025-07-20 07:26:59,960 - WARNING -  * Debugger is active!
+2025-07-20 07:26:59,961 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:27:47,013 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:27:47,130 - INFO -  * Restarting with stat
+2025-07-20 07:27:47,659 - WARNING -  * Debugger is active!
+2025-07-20 07:27:47,660 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:28:17,547 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:28:17,661 - INFO -  * Restarting with stat
+2025-07-20 07:28:18,141 - WARNING -  * Debugger is active!
+2025-07-20 07:28:18,142 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:28:19,168 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:28:19,271 - INFO -  * Restarting with stat
+2025-07-20 07:28:19,741 - WARNING -  * Debugger is active!
+2025-07-20 07:28:19,742 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:28:39,671 - INFO - 127.0.0.1 - - [20/Jul/2025 07:28:39] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:29:12,855 - INFO - 127.0.0.1 - - [20/Jul/2025 07:29:12] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:29:14,410 - INFO - 127.0.0.1 - - [20/Jul/2025 07:29:14] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:29:15,566 - INFO - 127.0.0.1 - - [20/Jul/2025 07:29:15] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:29:59,799 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:29:59,959 - INFO -  * Restarting with stat
+2025-07-20 07:30:21,989 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 07:30:21,989 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 07:30:21,990 - INFO -  * Restarting with stat
+2025-07-20 07:30:22,414 - WARNING -  * Debugger is active!
+2025-07-20 07:30:22,414 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:30:29,346 - INFO - 127.0.0.1 - - [20/Jul/2025 07:30:29] "[33mGET /api/health HTTP/1.1[0m" 404 -
+2025-07-20 07:30:29,575 - INFO - 127.0.0.1 - - [20/Jul/2025 07:30:29] "[33mGET /api/health HTTP/1.1[0m" 404 -
+2025-07-20 07:30:40,444 - INFO - 127.0.0.1 - - [20/Jul/2025 07:30:40] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:32:14,535 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:32:14,719 - INFO -  * Restarting with stat
+2025-07-20 07:32:20,385 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 07:32:20,386 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 07:32:20,387 - INFO -  * Restarting with stat
+2025-07-20 07:32:20,812 - WARNING -  * Debugger is active!
+2025-07-20 07:32:20,814 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:32:26,494 - INFO - 127.0.0.1 - - [20/Jul/2025 07:32:26] "[31m[1mPOST /api/fraud-detection HTTP/1.1[0m" 400 -
+2025-07-20 07:32:28,807 - INFO - 127.0.0.1 - - [20/Jul/2025 07:32:28] "[31m[1mPOST /api/fraud-detection HTTP/1.1[0m" 400 -
+2025-07-20 07:35:49,201 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:35:49,304 - INFO -  * Restarting with stat
+2025-07-20 07:36:20,049 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 07:36:20,049 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 07:36:20,050 - INFO -  * Restarting with stat
+2025-07-20 07:36:20,498 - WARNING -  * Debugger is active!
+2025-07-20 07:36:20,499 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:36:36,435 - INFO - 127.0.0.1 - - [20/Jul/2025 07:36:36] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:36:36,843 - INFO - 127.0.0.1 - - [20/Jul/2025 07:36:36] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:37:32,843 - INFO - 127.0.0.1 - - [20/Jul/2025 07:37:32] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:37:33,184 - INFO - 127.0.0.1 - - [20/Jul/2025 07:37:33] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:41:08,675 - INFO - 127.0.0.1 - - [20/Jul/2025 07:41:08] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:41:08,967 - INFO - 127.0.0.1 - - [20/Jul/2025 07:41:08] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:41:29,800 - INFO - 127.0.0.1 - - [20/Jul/2025 07:41:29] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:41:30,163 - INFO - 127.0.0.1 - - [20/Jul/2025 07:41:30] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:44:52,906 - INFO - 127.0.0.1 - - [20/Jul/2025 07:44:52] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:44:53,186 - INFO - 127.0.0.1 - - [20/Jul/2025 07:44:53] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:51:04,608 - INFO - 127.0.0.1 - - [20/Jul/2025 07:51:04] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:51:04,934 - INFO - 127.0.0.1 - - [20/Jul/2025 07:51:04] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:51:34,699 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:51:34,863 - INFO -  * Restarting with stat
+2025-07-20 07:51:39,371 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 07:51:39,371 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 07:51:39,372 - werkzeug - INFO -  * Restarting with stat
+2025-07-20 07:51:39,794 - werkzeug - WARNING -  * Debugger is active!
+2025-07-20 07:51:39,795 - werkzeug - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:51:53,151 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 07:51:53] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:53:34,147 - werkzeug - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:53:34,229 - werkzeug - INFO -  * Restarting with stat
+2025-07-20 07:53:34,663 - werkzeug - WARNING -  * Debugger is active!
+2025-07-20 07:53:34,665 - werkzeug - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:53:35,684 - werkzeug - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:53:35,767 - werkzeug - INFO -  * Restarting with stat
+2025-07-20 07:53:36,231 - werkzeug - WARNING -  * Debugger is active!
+2025-07-20 07:53:36,233 - werkzeug - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:53:40,289 - werkzeug - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:53:40,373 - werkzeug - INFO -  * Restarting with stat
+2025-07-20 07:53:40,788 - werkzeug - WARNING -  * Debugger is active!
+2025-07-20 07:53:40,790 - werkzeug - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:54:06,289 - werkzeug - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:54:06,381 - werkzeug - INFO -  * Restarting with stat
+2025-07-20 07:54:06,849 - werkzeug - WARNING -  * Debugger is active!
+2025-07-20 07:54:06,850 - werkzeug - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:54:57,369 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 07:54:57] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:54:57,594 - __main__ - INFO - [20250720045457] Starting fraud detection request
+2025-07-20 07:54:57,596 - __main__ - DEBUG - [20250720045457] Request data: {'server': 'localhost', 'username': 'SA', 'password': 'Abdikarim19'}
+2025-07-20 07:54:57,657 - __main__ - INFO - [20250720045457] Found 6 transactions
+2025-07-20 07:54:57,670 - __main__ - INFO - [20250720045457] Detected 1 fraud alerts
+2025-07-20 07:54:57,673 - __main__ - INFO - [20250720045457] Database connection closed
+2025-07-20 07:54:57,673 - __main__ - INFO - [20250720045457] Request completed
+2025-07-20 07:54:57,674 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 07:54:57] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:54:59,864 - __main__ - INFO - [20250720045459] Starting fraud detection request
+2025-07-20 07:54:59,864 - __main__ - DEBUG - [20250720045459] Request data: {'server': 'localhost', 'username': 'SA', 'password': 'Abdikarim19'}
+2025-07-20 07:54:59,907 - __main__ - INFO - [20250720045459] Found 6 transactions
+2025-07-20 07:54:59,918 - __main__ - INFO - [20250720045459] Detected 1 fraud alerts
+2025-07-20 07:54:59,920 - __main__ - INFO - [20250720045459] Database connection closed
+2025-07-20 07:54:59,920 - __main__ - INFO - [20250720045459] Request completed
+2025-07-20 07:54:59,921 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 07:54:59] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:56:45,616 - werkzeug - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 07:56:45,746 - werkzeug - INFO -  * Restarting with stat
+2025-07-20 08:01:35,977 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 08:01:35,977 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 08:01:35,978 - INFO -  * Restarting with stat
+2025-07-20 08:01:36,469 - WARNING -  * Debugger is active!
+2025-07-20 08:01:36,472 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 08:01:47,391 - INFO - 127.0.0.1 - - [20/Jul/2025 08:01:47] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:01:47,698 - INFO - 127.0.0.1 - - [20/Jul/2025 08:01:47] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:01:47,702 - INFO - 127.0.0.1 - - [20/Jul/2025 08:01:47] "OPTIONS /api/get-tables HTTP/1.1" 200 -
+2025-07-20 08:01:48,338 - WARNING - Could not load table FraudAlerts: name 'pd' is not defined
+2025-07-20 08:01:48,338 - WARNING - Could not load table Transfers: name 'pd' is not defined
+2025-07-20 08:01:48,338 - WARNING - Could not load table POS_Transactions: name 'pd' is not defined
+2025-07-20 08:01:48,338 - WARNING - Could not load table Payees: name 'pd' is not defined
+2025-07-20 08:01:48,338 - WARNING - Could not load table Accounts: name 'pd' is not defined
+2025-07-20 08:01:48,338 - WARNING - Could not load table FraudCases: name 'pd' is not defined
+2025-07-20 08:01:48,338 - WARNING - Could not load table Customers: name 'pd' is not defined
+2025-07-20 08:01:48,339 - WARNING - Could not load table Transactions: name 'pd' is not defined
+2025-07-20 08:01:48,340 - INFO - 127.0.0.1 - - [20/Jul/2025 08:01:48] "POST /api/get-tables HTTP/1.1" 200 -
+2025-07-20 08:02:50,999 - INFO - 127.0.0.1 - - [20/Jul/2025 08:02:50] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:02:51,269 - INFO - 127.0.0.1 - - [20/Jul/2025 08:02:51] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:02:51,291 - INFO - 127.0.0.1 - - [20/Jul/2025 08:02:51] "OPTIONS /api/get-tables HTTP/1.1" 200 -
+2025-07-20 08:02:51,560 - WARNING - Could not load table FraudAlerts: name 'pd' is not defined
+2025-07-20 08:02:51,560 - WARNING - Could not load table Transfers: name 'pd' is not defined
+2025-07-20 08:02:51,560 - WARNING - Could not load table POS_Transactions: name 'pd' is not defined
+2025-07-20 08:02:51,560 - WARNING - Could not load table Payees: name 'pd' is not defined
+2025-07-20 08:02:51,560 - WARNING - Could not load table Accounts: name 'pd' is not defined
+2025-07-20 08:02:51,561 - WARNING - Could not load table FraudCases: name 'pd' is not defined
+2025-07-20 08:02:51,561 - WARNING - Could not load table Customers: name 'pd' is not defined
+2025-07-20 08:02:51,561 - WARNING - Could not load table Transactions: name 'pd' is not defined
+2025-07-20 08:02:51,562 - INFO - 127.0.0.1 - - [20/Jul/2025 08:02:51] "POST /api/get-tables HTTP/1.1" 200 -
+2025-07-20 08:07:56,192 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 08:07:56,340 - INFO -  * Restarting with stat
+2025-07-20 08:08:29,172 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 08:08:29,172 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 08:08:29,175 - werkzeug - INFO -  * Restarting with stat
+2025-07-20 08:08:29,905 - werkzeug - WARNING -  * Debugger is active!
+2025-07-20 08:08:29,906 - werkzeug - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 08:08:46,419 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:08:46] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:08:46,679 - __main__ - INFO - [20250720050846] Starting fraud detection request
+2025-07-20 08:08:46,739 - __main__ - INFO - [20250720050846] Found 6 transactions
+2025-07-20 08:08:46,753 - __main__ - INFO - [20250720050846] Detected 1 fraud alerts
+2025-07-20 08:08:46,756 - __main__ - INFO - [20250720050846] Database connection closed
+2025-07-20 08:08:46,757 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:08:46] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:08:46,761 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:08:46] "OPTIONS /api/get-tables HTTP/1.1" 200 -
+2025-07-20 08:08:47,071 - __main__ - INFO - [20250720050847] Starting table data request
+2025-07-20 08:08:47,997 - __main__ - INFO - [20250720050847] Database connection closed
+2025-07-20 08:08:47,998 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:08:47] "POST /api/get-tables HTTP/1.1" 200 -
+2025-07-20 08:18:09,680 - werkzeug - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 08:18:09,799 - werkzeug - INFO -  * Restarting with stat
+2025-07-20 08:22:11,917 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 08:22:11,917 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 08:22:11,918 - werkzeug - INFO -  * Restarting with stat
+2025-07-20 08:22:12,370 - werkzeug - WARNING -  * Debugger is active!
+2025-07-20 08:22:12,371 - werkzeug - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 08:22:31,493 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:22:31] "OPTIONS /api/get-fraudalerts HTTP/1.1" 200 -
+2025-07-20 08:22:31,743 - __main__ - INFO - [20250720052231] Fetching FraudAlerts data
+2025-07-20 08:22:31,781 - __main__ - INFO - ✅ Connected to SQL Server
+2025-07-20 08:22:31,814 - __main__ - ERROR - ❌ Failed to fetch FraudAlerts: Execution failed on sql 'SELECT * FROM FraudAlerts ORDER BY AlertDate DESC': ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'AlertDate'. (207) (SQLExecDirectW)")
+2025-07-20 08:22:31,814 - __main__ - INFO - 🔌 Disconnected from SQL Server
+2025-07-20 08:22:31,815 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:22:31] "[35m[1mPOST /api/get-fraudalerts HTTP/1.1[0m" 500 -
+2025-07-20 08:23:18,039 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 08:23:18,039 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 08:23:18,040 - werkzeug - INFO -  * Restarting with stat
+2025-07-20 08:23:18,477 - werkzeug - WARNING -  * Debugger is active!
+2025-07-20 08:23:18,478 - werkzeug - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 08:23:22,695 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:23:22] "OPTIONS /api/get-fraudalerts HTTP/1.1" 200 -
+2025-07-20 08:23:22,935 - __main__ - INFO - [20250720052322] Fetching FraudAlerts data
+2025-07-20 08:23:22,970 - __main__ - INFO - ✅ Connected to SQL Server
+2025-07-20 08:23:22,974 - __main__ - ERROR - ❌ Failed to fetch FraudAlerts: Execution failed on sql 'SELECT * FROM FraudAlerts ORDER BY AlertDate DESC': ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'AlertDate'. (207) (SQLExecDirectW)")
+2025-07-20 08:23:22,975 - __main__ - INFO - 🔌 Disconnected from SQL Server
+2025-07-20 08:23:22,975 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:23:22] "[35m[1mPOST /api/get-fraudalerts HTTP/1.1[0m" 500 -
+2025-07-20 08:28:07,499 - werkzeug - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 08:28:07,605 - werkzeug - INFO -  * Restarting with stat
+2025-07-20 08:28:16,375 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 08:28:16,376 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 08:28:16,377 - werkzeug - INFO -  * Restarting with stat
+2025-07-20 08:28:16,883 - werkzeug - WARNING -  * Debugger is active!
+2025-07-20 08:28:16,884 - werkzeug - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 08:28:22,721 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:28:22] "OPTIONS /api/get-fraudalerts HTTP/1.1" 200 -
+2025-07-20 08:28:22,972 - __main__ - INFO - [20250720052822] Fetching FraudAlerts data
+2025-07-20 08:28:22,992 - __main__ - INFO - ✅ Connected to SQL Server
+2025-07-20 08:28:23,029 - __main__ - INFO - Fetching FraudAlerts with query: SELECT * FROM FraudAlerts
+2025-07-20 08:28:23,067 - __main__ - INFO - 🔌 Disconnected from SQL Server
+2025-07-20 08:28:23,067 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:28:23] "POST /api/get-fraudalerts HTTP/1.1" 200 -
+2025-07-20 08:28:26,556 - __main__ - INFO - [20250720052826] Fetching FraudAlerts data
+2025-07-20 08:28:26,569 - __main__ - INFO - ✅ Connected to SQL Server
+2025-07-20 08:28:26,570 - __main__ - INFO - Fetching FraudAlerts with query: SELECT * FROM FraudAlerts
+2025-07-20 08:28:26,582 - __main__ - INFO - 🔌 Disconnected from SQL Server
+2025-07-20 08:28:26,582 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:28:26] "POST /api/get-fraudalerts HTTP/1.1" 200 -
+2025-07-20 08:28:27,612 - __main__ - INFO - [20250720052827] Fetching FraudAlerts data
+2025-07-20 08:28:27,629 - __main__ - INFO - ✅ Connected to SQL Server
+2025-07-20 08:28:27,629 - __main__ - INFO - Fetching FraudAlerts with query: SELECT * FROM FraudAlerts
+2025-07-20 08:28:27,638 - __main__ - INFO - 🔌 Disconnected from SQL Server
+2025-07-20 08:28:27,638 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:28:27] "POST /api/get-fraudalerts HTTP/1.1" 200 -
+2025-07-20 08:28:28,466 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:28:28] "OPTIONS /api/get-fraudalerts HTTP/1.1" 200 -
+2025-07-20 08:28:28,764 - __main__ - INFO - [20250720052828] Fetching FraudAlerts data
+2025-07-20 08:28:28,778 - __main__ - INFO - ✅ Connected to SQL Server
+2025-07-20 08:28:28,779 - __main__ - INFO - Fetching FraudAlerts with query: SELECT * FROM FraudAlerts
+2025-07-20 08:28:28,790 - __main__ - INFO - 🔌 Disconnected from SQL Server
+2025-07-20 08:28:28,791 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:28:28] "POST /api/get-fraudalerts HTTP/1.1" 200 -
+2025-07-20 08:39:12,444 - __main__ - INFO - [20250720053912] Fetching FraudAlerts data
+2025-07-20 08:39:12,446 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:39:12] "[31m[1mPOST /api/get-fraudalerts HTTP/1.1[0m" 400 -
+2025-07-20 08:40:46,939 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 08:40:46,939 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 08:40:46,939 - werkzeug - INFO -  * Restarting with stat
+2025-07-20 08:40:47,383 - werkzeug - WARNING -  * Debugger is active!
+2025-07-20 08:40:47,384 - werkzeug - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 08:41:02,275 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:41:02] "OPTIONS /api/get-fraudalerts HTTP/1.1" 200 -
+2025-07-20 08:41:02,281 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:41:02] "OPTIONS /api/get-fraudalerts HTTP/1.1" 200 -
+2025-07-20 08:41:02,506 - __main__ - INFO - [20250720054102] Fetching FraudAlerts data
+2025-07-20 08:41:02,571 - __main__ - INFO - [20250720054102] Fetching FraudAlerts data
+2025-07-20 08:41:02,616 - __main__ - ERROR - ❌ Connection error: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'SA'. (18456) (SQLDriverConnect)")
+2025-07-20 08:41:02,617 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:41:02] "[35m[1mPOST /api/get-fraudalerts HTTP/1.1[0m" 500 -
+2025-07-20 08:41:02,617 - __main__ - ERROR - ❌ Connection error: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'SA'. (18456) (SQLDriverConnect)")
+2025-07-20 08:41:02,618 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:41:02] "[35m[1mPOST /api/get-fraudalerts HTTP/1.1[0m" 500 -
+2025-07-20 08:45:08,444 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:45:08] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:45:08,662 - __main__ - INFO - [20250720054508] Starting fraud detection
+2025-07-20 08:45:08,708 - __main__ - ERROR - ❌ Connection error: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'SA'. (18456) (SQLDriverConnect)")
+2025-07-20 08:45:08,708 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:45:08] "[35m[1mPOST /api/fraud-detection HTTP/1.1[0m" 500 -
+2025-07-20 08:50:52,461 - werkzeug - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 08:50:52,586 - werkzeug - INFO -  * Restarting with stat
+2025-07-20 08:50:59,555 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:50:59] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:50:59,862 - __main__ - ERROR - ❌ Connection error: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'SA'. (18456) (SQLDriverConnect)")
+2025-07-20 08:50:59,863 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 08:50:59] "[35m[1mPOST /api/fraud-detection HTTP/1.1[0m" 500 -
+2025-07-20 08:52:24,711 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 08:52:24,711 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 08:52:24,712 - INFO -  * Restarting with stat
+2025-07-20 08:52:25,179 - WARNING -  * Debugger is active!
+2025-07-20 08:52:25,180 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 08:52:31,592 - INFO - 127.0.0.1 - - [20/Jul/2025 08:52:31] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:52:31,894 - INFO - 127.0.0.1 - - [20/Jul/2025 08:52:31] "[35m[1mPOST /api/fraud-detection HTTP/1.1[0m" 500 -
+2025-07-20 08:52:44,794 - INFO - 127.0.0.1 - - [20/Jul/2025 08:52:44] "[33mOPTIONS /api/get-fraudalerts HTTP/1.1[0m" 404 -
+2025-07-20 08:53:39,965 - INFO - 127.0.0.1 - - [20/Jul/2025 08:53:39] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:53:40,391 - INFO - 127.0.0.1 - - [20/Jul/2025 08:53:40] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:53:48,035 - INFO - 127.0.0.1 - - [20/Jul/2025 08:53:48] "[33mGET /api/health HTTP/1.1[0m" 404 -
+2025-07-20 08:54:06,580 - INFO - 127.0.0.1 - - [20/Jul/2025 08:54:06] "[31m[1mPOST /api/fraud-detection HTTP/1.1[0m" 400 -
+2025-07-20 08:54:08,245 - INFO - 127.0.0.1 - - [20/Jul/2025 08:54:08] "[31m[1mPOST /api/fraud-detection HTTP/1.1[0m" 400 -
+2025-07-20 08:54:55,493 - INFO - 127.0.0.1 - - [20/Jul/2025 08:54:55] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:54:55,689 - INFO - 127.0.0.1 - - [20/Jul/2025 08:54:55] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:54:58,276 - INFO - 127.0.0.1 - - [20/Jul/2025 08:54:58] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:54:59,293 - INFO - 127.0.0.1 - - [20/Jul/2025 08:54:59] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:54:59,956 - INFO - 127.0.0.1 - - [20/Jul/2025 08:54:59] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:55:43,417 - INFO - 127.0.0.1 - - [20/Jul/2025 08:55:43] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:55:43,525 - INFO - 127.0.0.1 - - [20/Jul/2025 08:55:43] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:55:43,535 - INFO - 127.0.0.1 - - [20/Jul/2025 08:55:43] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:55:44,345 - INFO - 127.0.0.1 - - [20/Jul/2025 08:55:44] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:55:44,381 - INFO - 127.0.0.1 - - [20/Jul/2025 08:55:44] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:55:44,949 - INFO - 127.0.0.1 - - [20/Jul/2025 08:55:44] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:57:58,482 - INFO - 127.0.0.1 - - [20/Jul/2025 08:57:58] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 08:57:58,558 - INFO - 127.0.0.1 - - [20/Jul/2025 08:57:58] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 09:15:32,147 - INFO - 127.0.0.1 - - [20/Jul/2025 09:15:32] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 09:15:32,282 - INFO - 127.0.0.1 - - [20/Jul/2025 09:15:32] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 09:46:46,511 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 09:46:46,511 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 09:46:46,512 - INFO -  * Restarting with stat
+2025-07-20 09:46:47,052 - WARNING -  * Debugger is active!
+2025-07-20 09:46:47,054 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 09:47:03,848 - INFO - 127.0.0.1 - - [20/Jul/2025 09:47:03] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 09:47:04,369 - INFO - 127.0.0.1 - - [20/Jul/2025 09:47:04] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 09:52:57,870 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 09:52:58,046 - INFO -  * Restarting with stat
+2025-07-20 10:03:38,375 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 10:03:38,376 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 10:03:38,376 - INFO -  * Restarting with stat
+2025-07-20 10:03:38,876 - WARNING -  * Debugger is active!
+2025-07-20 10:03:38,877 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 10:03:42,366 - INFO - 127.0.0.1 - - [20/Jul/2025 10:03:42] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:03:42,500 - INFO - 127.0.0.1 - - [20/Jul/2025 10:03:42] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:03:47,107 - INFO - 127.0.0.1 - - [20/Jul/2025 10:03:47] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:03:47,167 - INFO - 127.0.0.1 - - [20/Jul/2025 10:03:47] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:03:47,969 - INFO - 127.0.0.1 - - [20/Jul/2025 10:03:47] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:03:48,631 - INFO - 127.0.0.1 - - [20/Jul/2025 10:03:48] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:03:49,165 - INFO - 127.0.0.1 - - [20/Jul/2025 10:03:49] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:03:49,681 - INFO - 127.0.0.1 - - [20/Jul/2025 10:03:49] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:03:50,156 - INFO - 127.0.0.1 - - [20/Jul/2025 10:03:50] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:03:50,803 - INFO - 127.0.0.1 - - [20/Jul/2025 10:03:50] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:03:51,396 - INFO - 127.0.0.1 - - [20/Jul/2025 10:03:51] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:03:51,889 - INFO - 127.0.0.1 - - [20/Jul/2025 10:03:51] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:03:51,944 - INFO - 127.0.0.1 - - [20/Jul/2025 10:03:51] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:22:28,837 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 10:22:28,838 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 10:22:28,839 - INFO -  * Restarting with stat
+2025-07-20 10:22:29,841 - WARNING -  * Debugger is active!
+2025-07-20 10:22:29,844 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 10:22:35,763 - INFO - 127.0.0.1 - - [20/Jul/2025 10:22:35] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:22:35,934 - INFO - 127.0.0.1 - - [20/Jul/2025 10:22:35] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:22:36,978 - INFO - 127.0.0.1 - - [20/Jul/2025 10:22:36] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:22:37,767 - INFO - 127.0.0.1 - - [20/Jul/2025 10:22:37] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:27:41,377 - INFO - 127.0.0.1 - - [20/Jul/2025 10:27:41] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:27:41,473 - INFO - 127.0.0.1 - - [20/Jul/2025 10:27:41] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:28:16,104 - INFO - 127.0.0.1 - - [20/Jul/2025 10:28:16] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:28:16,196 - INFO - 127.0.0.1 - - [20/Jul/2025 10:28:16] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:30:58,688 - INFO - 127.0.0.1 - - [20/Jul/2025 10:30:58] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:30:58,754 - INFO - 127.0.0.1 - - [20/Jul/2025 10:30:58] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:31:01,461 - INFO - 127.0.0.1 - - [20/Jul/2025 10:31:01] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:33:09,307 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 10:33:09,442 - INFO -  * Restarting with stat
+2025-07-20 10:33:09,893 - WARNING -  * Debugger is active!
+2025-07-20 10:33:09,894 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 10:33:17,275 - INFO - 127.0.0.1 - - [20/Jul/2025 10:33:17] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:33:17,415 - ERROR - [20250720073317] ❌ Error during fraud detection: 'FraudDetector' object has no attribute 'get_fraud_alerts'
+2025-07-20 10:33:17,415 - ERROR - Traceback (most recent call last):
+  File "/home/karim/bank-fraud/app.py", line 71, in detect_fraud
+    fraud_alerts_df = detector.get_fraud_alerts()
+AttributeError: 'FraudDetector' object has no attribute 'get_fraud_alerts'
+
+2025-07-20 10:33:17,416 - INFO - 127.0.0.1 - - [20/Jul/2025 10:33:17] "[35m[1mPOST /api/fraud-detection HTTP/1.1[0m" 500 -
+2025-07-20 10:40:59,635 - INFO -  * Detected change in '/home/karim/bank-fraud/fraud_detector.py', reloading
+2025-07-20 10:40:59,764 - INFO -  * Restarting with stat
+2025-07-20 10:41:00,341 - WARNING -  * Debugger is active!
+2025-07-20 10:41:00,342 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 10:41:15,171 - INFO - 127.0.0.1 - - [20/Jul/2025 10:41:15] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:41:15,220 - INFO - ✅ Connected to SQL Server
+2025-07-20 10:41:15,234 - INFO - 📦 Fetched 6 transactions
+2025-07-20 10:41:15,303 - ERROR - Failed to save alert: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'Rule'. (156) (SQLExecDirectW)")
+2025-07-20 10:41:15,304 - INFO - ✅ Saved 0 alerts.
+2025-07-20 10:41:15,306 - ERROR - ❌ Failed to fetch FraudAlerts: Execution failed on sql '
+                SELECT TransactionID, CustomerID, FullName, Rule, Details,
+                       COALESCE(AlertDate, DateCreated, CreatedAt, TransactionDate, Date) AS Date
+                FROM FraudAlerts
+                ORDER BY Date DESC
+            ': ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'Rule'. (156) (SQLExecDirectW)")
+2025-07-20 10:41:15,308 - INFO - 🔌 Disconnected
+2025-07-20 10:41:15,309 - INFO - 127.0.0.1 - - [20/Jul/2025 10:41:15] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:42:40,762 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 10:42:40,866 - INFO -  * Restarting with stat
+2025-07-20 10:42:44,066 - WARNING -  * Debugger is active!
+2025-07-20 10:42:44,067 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 10:42:49,393 - INFO - 127.0.0.1 - - [20/Jul/2025 10:42:49] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:42:49,440 - INFO - ✅ Connected to SQL Server
+2025-07-20 10:42:49,447 - INFO - 📦 Fetched 6 transactions
+2025-07-20 10:42:49,464 - ERROR - Failed to save alert: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'Rule'. (156) (SQLExecDirectW)")
+2025-07-20 10:42:49,465 - INFO - ✅ Saved 0 alerts.
+2025-07-20 10:42:49,467 - ERROR - ❌ Failed to fetch FraudAlerts: Execution failed on sql '
+                SELECT TransactionID, CustomerID, FullName, Rule, Details,
+                       COALESCE(AlertDate, DateCreated, CreatedAt, TransactionDate, Date) AS Date
+                FROM FraudAlerts
+                ORDER BY Date DESC
+            ': ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'Rule'. (156) (SQLExecDirectW)")
+2025-07-20 10:42:49,469 - INFO - 🔌 Disconnected
+2025-07-20 10:42:49,470 - INFO - 127.0.0.1 - - [20/Jul/2025 10:42:49] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:42:50,205 - INFO - ✅ Connected to SQL Server
+2025-07-20 10:42:50,210 - INFO - 📦 Fetched 6 transactions
+2025-07-20 10:42:50,222 - ERROR - Failed to save alert: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'Rule'. (156) (SQLExecDirectW)")
+2025-07-20 10:42:50,223 - INFO - ✅ Saved 0 alerts.
+2025-07-20 10:42:50,225 - ERROR - ❌ Failed to fetch FraudAlerts: Execution failed on sql '
+                SELECT TransactionID, CustomerID, FullName, Rule, Details,
+                       COALESCE(AlertDate, DateCreated, CreatedAt, TransactionDate, Date) AS Date
+                FROM FraudAlerts
+                ORDER BY Date DESC
+            ': ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'Rule'. (156) (SQLExecDirectW)")
+2025-07-20 10:42:50,227 - INFO - 🔌 Disconnected
+2025-07-20 10:42:50,228 - INFO - 127.0.0.1 - - [20/Jul/2025 10:42:50] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:42:54,391 - INFO - 127.0.0.1 - - [20/Jul/2025 10:42:54] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:42:54,414 - INFO - ✅ Connected to SQL Server
+2025-07-20 10:42:54,420 - INFO - 📦 Fetched 6 transactions
+2025-07-20 10:42:54,436 - ERROR - Failed to save alert: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'Rule'. (156) (SQLExecDirectW)")
+2025-07-20 10:42:54,437 - INFO - ✅ Saved 0 alerts.
+2025-07-20 10:42:54,438 - ERROR - ❌ Failed to fetch FraudAlerts: Execution failed on sql '
+                SELECT TransactionID, CustomerID, FullName, Rule, Details,
+                       COALESCE(AlertDate, DateCreated, CreatedAt, TransactionDate, Date) AS Date
+                FROM FraudAlerts
+                ORDER BY Date DESC
+            ': ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'Rule'. (156) (SQLExecDirectW)")
+2025-07-20 10:42:54,440 - INFO - 🔌 Disconnected
+2025-07-20 10:42:54,441 - INFO - 127.0.0.1 - - [20/Jul/2025 10:42:54] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:44:54,429 - INFO -  * Detected change in '/home/karim/bank-fraud/fraud_detector.py', reloading
+2025-07-20 10:44:54,554 - INFO -  * Restarting with stat
+2025-07-20 10:48:38,073 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 10:48:38,073 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 10:48:38,074 - INFO -  * Restarting with stat
+2025-07-20 10:48:38,632 - WARNING -  * Debugger is active!
+2025-07-20 10:48:38,633 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 10:48:49,541 - INFO - 127.0.0.1 - - [20/Jul/2025 10:48:49] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:48:49,546 - INFO - [20250720104849] Start fraud detection
+2025-07-20 10:48:49,577 - INFO - ✅ Connected to SQL Server
+2025-07-20 10:48:49,582 - INFO - 📦 Fetched 6 transactions
+2025-07-20 10:48:49,601 - ERROR - Failed to save alert: ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'Rule'. (156) (SQLExecDirectW)")
+2025-07-20 10:48:49,601 - INFO - ✅ Saved 0 alerts.
+2025-07-20 10:48:49,603 - ERROR - ❌ Failed to fetch FraudAlerts: Execution failed on sql '
+                SELECT TransactionID, CustomerID, FullName, Rule, Details,
+                       COALESCE(AlertDate, DateCreated, CreatedAt, TransactionDate, Date) AS Date
+                FROM FraudAlerts
+                ORDER BY Date DESC
+            ': ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'Rule'. (156) (SQLExecDirectW)")
+2025-07-20 10:48:49,607 - INFO - 🔌 Disconnected
+2025-07-20 10:48:49,608 - INFO - 127.0.0.1 - - [20/Jul/2025 10:48:49] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:52:28,192 - INFO -  * Detected change in '/home/karim/bank-fraud/fraud_detector.py', reloading
+2025-07-20 10:52:28,366 - INFO -  * Restarting with stat
+2025-07-20 10:52:28,830 - WARNING -  * Debugger is active!
+2025-07-20 10:52:28,831 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 10:52:34,317 - INFO - 127.0.0.1 - - [20/Jul/2025 10:52:34] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:52:34,326 - INFO - [20250720105234] Start fraud detection
+2025-07-20 10:52:34,358 - INFO - ✅ Connected to SQL Server
+2025-07-20 10:52:34,385 - INFO - 📦 Fetched 6 transactions
+2025-07-20 10:52:34,408 - ERROR - Failed to save alert: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'FullName'. (207) (SQLExecDirectW)")
+2025-07-20 10:52:34,408 - INFO - ✅ Saved 0 alerts.
+2025-07-20 10:52:34,412 - ERROR - ❌ Failed to fetch FraudAlerts: Execution failed on sql '
+                SELECT TransactionID, CustomerID, FullName, [Rule], [Details],
+                       COALESCE(AlertDate, DateCreated, CreatedAt, TransactionDate, [Date]) AS [Date]
+                FROM FraudAlerts
+                ORDER BY [Date] DESC
+            ': ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'FullName'. (207) (SQLExecDirectW)")
+2025-07-20 10:52:34,415 - INFO - 🔌 Disconnected
+2025-07-20 10:52:34,416 - INFO - 127.0.0.1 - - [20/Jul/2025 10:52:34] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:52:35,003 - INFO - [20250720105235] Start fraud detection
+2025-07-20 10:52:35,023 - INFO - ✅ Connected to SQL Server
+2025-07-20 10:52:35,027 - INFO - 📦 Fetched 6 transactions
+2025-07-20 10:52:35,041 - ERROR - Failed to save alert: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'FullName'. (207) (SQLExecDirectW)")
+2025-07-20 10:52:35,042 - INFO - ✅ Saved 0 alerts.
+2025-07-20 10:52:35,044 - ERROR - ❌ Failed to fetch FraudAlerts: Execution failed on sql '
+                SELECT TransactionID, CustomerID, FullName, [Rule], [Details],
+                       COALESCE(AlertDate, DateCreated, CreatedAt, TransactionDate, [Date]) AS [Date]
+                FROM FraudAlerts
+                ORDER BY [Date] DESC
+            ': ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'FullName'. (207) (SQLExecDirectW)")
+2025-07-20 10:52:35,046 - INFO - 🔌 Disconnected
+2025-07-20 10:52:35,047 - INFO - 127.0.0.1 - - [20/Jul/2025 10:52:35] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:52:44,465 - INFO - 127.0.0.1 - - [20/Jul/2025 10:52:44] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:52:44,474 - INFO - [20250720105244] Start fraud detection
+2025-07-20 10:52:44,486 - INFO - ✅ Connected to SQL Server
+2025-07-20 10:52:44,489 - INFO - 📦 Fetched 6 transactions
+2025-07-20 10:52:44,502 - ERROR - Failed to save alert: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'FullName'. (207) (SQLExecDirectW)")
+2025-07-20 10:52:44,503 - INFO - ✅ Saved 0 alerts.
+2025-07-20 10:52:44,505 - ERROR - ❌ Failed to fetch FraudAlerts: Execution failed on sql '
+                SELECT TransactionID, CustomerID, FullName, [Rule], [Details],
+                       COALESCE(AlertDate, DateCreated, CreatedAt, TransactionDate, [Date]) AS [Date]
+                FROM FraudAlerts
+                ORDER BY [Date] DESC
+            ': ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'FullName'. (207) (SQLExecDirectW)")
+2025-07-20 10:52:44,507 - INFO - 🔌 Disconnected
+2025-07-20 10:52:44,508 - INFO - 127.0.0.1 - - [20/Jul/2025 10:52:44] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:57:23,256 - INFO -  * Detected change in '/home/karim/bank-fraud/fraud_detector.py', reloading
+2025-07-20 10:57:23,471 - INFO -  * Restarting with stat
+2025-07-20 10:57:30,470 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 10:57:30,470 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 10:57:30,471 - INFO -  * Restarting with stat
+2025-07-20 10:57:30,920 - WARNING -  * Debugger is active!
+2025-07-20 10:57:30,921 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 10:57:37,927 - INFO - 127.0.0.1 - - [20/Jul/2025 10:57:37] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 10:57:37,933 - INFO - [20250720105737] Start fraud detection
+2025-07-20 10:57:37,960 - INFO - ✅ Connected to SQL Server
+2025-07-20 10:57:37,985 - INFO - 📦 Fetched 6 transactions
+2025-07-20 10:57:37,995 - INFO - ⚠️ Detected 1 fraud alerts
+2025-07-20 10:57:37,998 - ERROR - Failed to save alert: ('42S22', "[42S22] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Invalid column name 'FullName'. (207) (SQLExecDirectW)")
+2025-07-20 10:57:37,998 - INFO - ✅ Saved 0 alerts.
+2025-07-20 10:57:38,001 - ERROR - ❌ Failed to fetch FraudAlerts: Execution failed on sql '
+                SELECT TransactionID, CustomerID, FullName, RuleName AS Rule, Details,
+                       COALESCE(AlertDate, TransactionDate, DateCreated) AS Date
+                FROM FraudAlerts
+                ORDER BY Date DESC
+            ': ('42000', "[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Incorrect syntax near the keyword 'Rule'. (156) (SQLExecDirectW)")
+2025-07-20 10:57:38,009 - INFO - 🔌 Disconnected
+2025-07-20 10:57:38,011 - INFO - 127.0.0.1 - - [20/Jul/2025 10:57:38] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 11:03:12,257 - INFO -  * Detected change in '/home/karim/bank-fraud/fraud_detector.py', reloading
+2025-07-20 11:03:12,378 - INFO -  * Restarting with stat
+2025-07-20 11:03:12,839 - WARNING -  * Debugger is active!
+2025-07-20 11:03:12,840 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 11:03:17,910 - INFO -  * Detected change in '/home/karim/bank-fraud/fraud_detector.py', reloading
+2025-07-20 11:03:18,004 - INFO -  * Restarting with stat
+2025-07-20 11:03:18,464 - WARNING -  * Debugger is active!
+2025-07-20 11:03:18,465 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 11:03:30,471 - INFO -  * Detected change in '/home/karim/bank-fraud/fraud_detector.py', reloading
+2025-07-20 11:03:30,608 - INFO -  * Restarting with stat
+2025-07-20 11:03:31,091 - WARNING -  * Debugger is active!
+2025-07-20 11:03:31,092 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 11:03:36,161 - INFO -  * Detected change in '/home/karim/bank-fraud/fraud_detector.py', reloading
+2025-07-20 11:03:36,259 - INFO -  * Restarting with stat
+2025-07-20 11:03:36,706 - WARNING -  * Debugger is active!
+2025-07-20 11:03:36,706 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 11:03:40,759 - INFO -  * Detected change in '/home/karim/bank-fraud/fraud_detector.py', reloading
+2025-07-20 11:03:40,870 - INFO -  * Restarting with stat
+2025-07-20 11:07:56,846 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 11:07:56,847 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 11:07:56,854 - INFO -  * Restarting with stat
+2025-07-20 11:07:57,333 - WARNING -  * Debugger is active!
+2025-07-20 11:07:57,334 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 11:08:05,096 - INFO - 127.0.0.1 - - [20/Jul/2025 11:08:05] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 11:08:05,103 - INFO - [20250720110805] Start fraud detection
+2025-07-20 11:08:05,180 - ERROR - ❌ Connection failed: ('28000', "[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user 'SA'. (18456) (SQLDriverConnect)")
+2025-07-20 11:08:05,181 - INFO - 127.0.0.1 - - [20/Jul/2025 11:08:05] "[35m[1mPOST /api/fraud-detection HTTP/1.1[0m" 500 -
+2025-07-20 11:08:13,501 - INFO - 127.0.0.1 - - [20/Jul/2025 11:08:13] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 11:08:13,507 - INFO - [20250720110813] Start fraud detection
+2025-07-20 11:08:13,540 - INFO - ✅ Connected to SQL Server
+2025-07-20 11:08:13,586 - INFO - 📦 Fetched 6 transactions
+2025-07-20 11:08:13,623 - ERROR - [20250720110813] ❌ Error during fraud detection: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 5 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-07-20 11:08:13,624 - INFO - 🔌 Disconnected
+2025-07-20 11:08:13,624 - INFO - 127.0.0.1 - - [20/Jul/2025 11:08:13] "[35m[1mPOST /api/fraud-detection HTTP/1.1[0m" 500 -
+2025-07-20 11:11:02,746 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 11:11:02,839 - INFO -  * Restarting with stat
+2025-07-20 11:11:03,275 - WARNING -  * Debugger is active!
+2025-07-20 11:11:03,275 - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 11:11:23,484 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 11:11:23,717 - INFO -  * Restarting with stat
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              2025-07-20 16:27:01,574 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 16:27:01,574 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 16:27:01,576 - INFO -  * Restarting with stat
+2025-07-20 16:27:03,046 - WARNING -  * Debugger is active!
+2025-07-20 16:27:03,380 - INFO -  * Debugger PIN: 377-060-352
+2025-07-20 16:27:23,038 - INFO - 127.0.0.1 - - [20/Jul/2025 16:27:23] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 16:27:23,043 - INFO - [20250720162723] Start fraud detection
+2025-07-20 16:27:23,651 - INFO - ✅ Connected to SQL Server
+2025-07-20 16:27:23,830 - INFO - 📦 Fetched 6 transactions
+2025-07-20 16:27:23,874 - ERROR - [20250720162723] ❌ Error during fraud detection: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 5 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-07-20 16:27:23,877 - INFO - 🔌 Disconnected
+2025-07-20 16:27:23,878 - INFO - 127.0.0.1 - - [20/Jul/2025 16:27:23] "[35m[1mPOST /api/fraud-detection HTTP/1.1[0m" 500 -
+2025-07-20 16:37:21,593 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 16:37:21,593 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 16:37:21,594 - INFO -  * Restarting with stat
+2025-07-20 16:37:22,057 - WARNING -  * Debugger is active!
+2025-07-20 16:37:22,058 - INFO -  * Debugger PIN: 377-060-352
+2025-07-20 16:37:40,212 - INFO - 127.0.0.1 - - [20/Jul/2025 16:37:40] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 16:37:40,222 - INFO - [20250720163740] Start fraud detection
+2025-07-20 16:37:40,249 - INFO - ✅ Connected to SQL Server
+2025-07-20 16:37:40,257 - INFO - 📦 Fetched 6 transactions
+2025-07-20 16:37:40,262 - ERROR - [20250720163740] ❌ Error during fraud detection: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 5 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-07-20 16:37:40,262 - INFO - 🔌 Disconnected
+2025-07-20 16:37:40,263 - INFO - 127.0.0.1 - - [20/Jul/2025 16:37:40] "[35m[1mPOST /api/fraud-detection HTTP/1.1[0m" 500 -
+2025-07-20 16:47:33,193 - INFO -  * Detected change in '/home/karim/bank-fraud/fraud_detector.py', reloading
+2025-07-20 16:47:33,340 - INFO -  * Restarting with stat
+2025-07-20 16:47:33,933 - WARNING -  * Debugger is active!
+2025-07-20 16:47:33,934 - INFO -  * Debugger PIN: 377-060-352
+2025-07-20 16:47:50,513 - INFO - 127.0.0.1 - - [20/Jul/2025 16:47:50] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 16:47:50,522 - INFO - [20250720164750] Start fraud detection
+2025-07-20 16:47:50,555 - INFO - ✅ Connected to SQL Server
+2025-07-20 16:47:50,562 - INFO - 📦 Fetched 6 transactions
+2025-07-20 16:47:50,566 - ERROR - [20250720164750] ❌ Error during fraud detection: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 5 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-07-20 16:47:50,566 - INFO - 🔌 Disconnected
+2025-07-20 16:47:50,567 - INFO - 127.0.0.1 - - [20/Jul/2025 16:47:50] "[35m[1mPOST /api/fraud-detection HTTP/1.1[0m" 500 -
+2025-07-20 16:52:36,102 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 16:52:36,103 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 16:52:36,103 - INFO -  * Restarting with stat
+2025-07-20 16:52:36,549 - WARNING -  * Debugger is active!
+2025-07-20 16:52:36,550 - INFO -  * Debugger PIN: 377-060-352
+2025-07-20 16:52:41,529 - INFO - 127.0.0.1 - - [20/Jul/2025 16:52:41] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 16:52:41,535 - INFO - [20250720165241] Start fraud detection
+2025-07-20 16:52:41,565 - INFO - ✅ Connected to SQL Server
+2025-07-20 16:52:41,604 - INFO - 📦 Fetched 6 transactions
+2025-07-20 16:52:41,610 - ERROR - [20250720165241] ❌ Error during fraud detection: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 5 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-07-20 16:52:41,611 - INFO - 🔌 Disconnected
+2025-07-20 16:52:41,611 - INFO - 127.0.0.1 - - [20/Jul/2025 16:52:41] "[35m[1mPOST /api/fraud-detection HTTP/1.1[0m" 500 -
+2025-07-20 17:14:22,297 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 17:14:22,297 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 17:14:22,298 - INFO -  * Restarting with stat
+2025-07-20 17:14:23,481 - WARNING -  * Debugger is active!
+2025-07-20 17:14:23,483 - INFO -  * Debugger PIN: 377-060-352
+2025-07-20 17:14:28,811 - INFO - 127.0.0.1 - - [20/Jul/2025 17:14:28] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 17:14:28,821 - INFO - [20250720171428] Start fraud detection
+2025-07-20 17:14:28,821 - ERROR - [20250720171428] ❌ Error during fraud detection: FraudDetector.__init__() missing 1 required positional argument: 'database'
+2025-07-20 17:14:28,833 - INFO - 127.0.0.1 - - [20/Jul/2025 17:14:28] "[35m[1mPOST /api/fraud-detection HTTP/1.1[0m" 500 -
+2025-07-20 17:14:29,417 - INFO - [20250720171429] Start fraud detection
+2025-07-20 17:14:29,417 - ERROR - [20250720171429] ❌ Error during fraud detection: FraudDetector.__init__() missing 1 required positional argument: 'database'
+2025-07-20 17:14:29,421 - INFO - 127.0.0.1 - - [20/Jul/2025 17:14:29] "[35m[1mPOST /api/fraud-detection HTTP/1.1[0m" 500 -
+2025-07-20 17:16:11,549 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 17:16:11,673 - INFO -  * Restarting with stat
+2025-07-20 18:53:18,338 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 18:53:18,339 - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 18:53:18,339 - INFO -  * Restarting with stat
+2025-07-20 18:53:19,353 - WARNING -  * Debugger is active!
+2025-07-20 18:53:19,354 - INFO -  * Debugger PIN: 377-060-352
+2025-07-20 18:53:23,892 - INFO - 127.0.0.1 - - [20/Jul/2025 18:53:23] "[33mOPTIONS /api/fraud-detection/BANKDB HTTP/1.1[0m" 404 -
+2025-07-20 18:53:23,893 - INFO - 127.0.0.1 - - [20/Jul/2025 18:53:23] "[33mOPTIONS /api/fraud-detection/BANKDB HTTP/1.1[0m" 404 -
+2025-07-20 18:56:18,393 - INFO - 127.0.0.1 - - [20/Jul/2025 18:56:18] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 18:56:18,396 - INFO - 127.0.0.1 - - [20/Jul/2025 18:56:18] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 18:56:18,624 - INFO - [20250720185618] Start fraud detection
+2025-07-20 18:56:18,689 - INFO - [20250720185618] Start fraud detection
+2025-07-20 18:56:18,738 - INFO - ✅ Connected to SQL Server
+2025-07-20 18:56:18,742 - INFO - ✅ Connected to SQL Server
+2025-07-20 18:56:18,928 - INFO - 📦 Fetched 6 transactions
+2025-07-20 18:56:18,928 - INFO - 📦 Fetched 6 transactions
+2025-07-20 18:56:18,991 - ERROR - [20250720185618] ❌ Error during fraud detection: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 5 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-07-20 18:56:18,994 - ERROR - [20250720185618] ❌ Error during fraud detection: ('42000', '[42000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]The incoming tabular data stream (TDS) remote procedure call (RPC) protocol stream is incorrect. Parameter 5 (""): The supplied value is not a valid instance of data type float. Check the source data for invalid values. An example of an invalid value is data of numeric type with scale greater than precision. (8023) (SQLExecDirectW)')
+2025-07-20 18:56:18,994 - INFO - 🔌 Disconnected
+2025-07-20 18:56:18,998 - INFO - 🔌 Disconnected
+2025-07-20 18:56:19,001 - INFO - 127.0.0.1 - - [20/Jul/2025 18:56:19] "[35m[1mPOST /api/fraud-detection HTTP/1.1[0m" 500 -
+2025-07-20 18:56:19,003 - INFO - 127.0.0.1 - - [20/Jul/2025 18:56:19] "[35m[1mPOST /api/fraud-detection HTTP/1.1[0m" 500 -
+2025-07-20 19:13:54,668 - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 19:13:55,057 - INFO -  * Restarting with stat

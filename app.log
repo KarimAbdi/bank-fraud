@@ -1,0 +1,16 @@
+2025-07-20 07:57:12,202 - werkzeug - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5000
+ * Running on http://172.27.245.216:5000
+2025-07-20 07:57:12,202 - werkzeug - INFO - [33mPress CTRL+C to quit[0m
+2025-07-20 07:57:12,203 - werkzeug - INFO -  * Restarting with stat
+2025-07-20 07:57:12,465 - werkzeug - WARNING -  * Debugger is active!
+2025-07-20 07:57:12,466 - werkzeug - INFO -  * Debugger PIN: 701-096-299
+2025-07-20 07:57:35,198 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 07:57:35] "OPTIONS /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:57:35,422 - __main__ - INFO - Fraud detection request received: {'server': 'localhost', 'username': 'SA', 'password': 'Abdikarim19'}
+2025-07-20 07:57:35,424 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 07:57:35] "POST /api/fraud-detection HTTP/1.1" 200 -
+2025-07-20 07:57:44,558 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 07:57:44] "OPTIONS /api/debug HTTP/1.1" 200 -
+2025-07-20 07:57:44,842 - __main__ - DEBUG - Received debug request: {'server': 'localhost', 'username': 'SA', 'password': 'Abdikarim19'}
+2025-07-20 07:57:44,844 - werkzeug - INFO - 127.0.0.1 - - [20/Jul/2025 07:57:44] "POST /api/debug HTTP/1.1" 200 -
+2025-07-20 08:01:26,190 - werkzeug - INFO -  * Detected change in '/home/karim/bank-fraud/app.py', reloading
+2025-07-20 08:01:26,264 - werkzeug - INFO -  * Restarting with stat
